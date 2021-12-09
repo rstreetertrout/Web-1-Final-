@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap");
+
+nav {
+  width: 3150px;
+  height: 200px;
+  background: #010203;
+  box-shadow: 0px 8px 4px rgba(0, 0, 0, 0.25);
+  transition-property: background-color;
+  transition-duration: 2s;
+  
+}
+
+nav:hover {
+  
+} background-color: red;
+
+
+    
+ 
+
+header{
+  align-self: center;
+  justify-self: center;
+}
+
+
+.logo{
+  display: flex;
+  justify-content: space-between;
+  padding-left:.5em;
+ 
+  
+}
+  
+  
+}
+h1{
+  font-family: "Orbitron", serif;
+  font-weight: bold;
+  
+}   
+ 
+.bar{ 
+  display: flex;
+  flex-direction: column;
+  padding-top: 6em;
+ 
+}
+
+h2{
+   font-family: "Orbitron", serif;
+  font-weight: medium;
+  margin-right: 1000em;
+  text-align: justify;
+  
+}
+
+.underline{
+  text-decoration: underline;
+}
+Footer{
+ width: 3150px;
+  height: 200px;
+  background: #010203;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+h3{
+  text-align: center;
+  font-family: "Orbitron", serif;
+  font-weight: regular;
+  font-size: 80px;
+  color: #ffffff;
+  
+  
+}
+
+.flex1{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1em;
+}
+.mainflex{
+  display: flex; 
+  justify-content: space-between:
+  
+}
+
+.boxes{
+  padding-left: 600em;
+ 
+
+  
+}
+  
+
+
+h5 {
+ 
+  font-family: "Orbitron", serif;
+  font-weight: regular;
+  font-size: 80px;
+  Padding-left: 8em;
+  
+  
+  
+}
+
+body{
+  display: flex;
+  flex-wrap: wrap;
+}
